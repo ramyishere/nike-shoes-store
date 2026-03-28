@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramyishere/nike-shoes-store/static/css/main.23a4fefb.css",
+    "main.js": "/ramyishere/nike-shoes-store/static/js/main.edbd6e27.js",
+    "index.html": "/ramyishere/nike-shoes-store/index.html",
+    "main.23a4fefb.css.map": "/ramyishere/nike-shoes-store/static/css/main.23a4fefb.css.map",
+    "main.edbd6e27.js.map": "/ramyishere/nike-shoes-store/static/js/main.edbd6e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a4fefb.css",
+    "static/js/main.edbd6e27.js"
+  ]
+}
